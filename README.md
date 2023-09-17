@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Emerging Technologies**
 
-- ⚡ Fun fact [During a race, an f1 driver loses up to 4 kg of body weight due to the unbearable temperature in the cockpit.](During a race, an f1 driver loses up to 4 kg of body weight due to the unbearable temperature in the cockpit.)
+- ⚡ Fun fact During a race, an f1 driver loses up to 4 kg of body weight due to the unbearable temperature in the cockpit.
 
 - 💬 Ask me about **React, JS, Python, HTML, CSS**
 
