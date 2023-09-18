@@ -15,6 +15,17 @@
 
 - 📫 How to reach me **eqitechg@gmail.com**
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chinedu-gabriel-a-07a74983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinedu-gabriel-a-07a74983" height="30" width="40" /></a>
+</p>
+<h4 align="left">Google UX Design Certificate</h4>
+<h4 align="left">Google Data Analytics Certificate</h4>
+<h4 align="left">Google Project Management Certificate</h4>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/https://codesandbox.io/u/eqitechg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/eqitechg" height="30" width="40" /></a>
