@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A curious and passionate Software Engineer, creating sustainable solutions and seeking new knowledge</h3>
+<h4 align="center">Revamping my GitHub (Pushing old codes and making private some private codes public) </h4>
 
 - 🔭 I’m currently working on **DApps & Bespoke Dating App**
 
@@ -9,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Emerging Technologies**
 
-- ⚡ Fun fact During a race, an f1 driver loses up to 4 kg of body weight due to the unbearable temperature in the cockpit.
+- ⚡ Fun fact **During a race, an f1 driver loses up to 4 kg of body weight due to the unbearable temperature in the cockpit.**
 
 - 💬 Ask me about **React, JS, Python, HTML, CSS**
 
