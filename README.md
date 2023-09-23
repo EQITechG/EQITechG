@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A curious and passionate Software Engineer, creating sustainable solutions and seeking new knowledge</h3>
-<h4 align="center">Revamping my GitHub (Pushing old codes and making private some private codes public) </h4>
+
+**Revamping my GitHub (Pushing old codes and making some private codes public**
 
 - 🔭 I’m currently working on **DApps & Bespoke Dating App**
 
