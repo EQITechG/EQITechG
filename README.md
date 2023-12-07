@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A curious and passionate Software Engineer, creating sustainable solutions and seeking new knowledge</h3>
-
-<h4 align="center"> Revamping my GitHub (Pushing old codes and making some private codes public (Copyright 2023)</h4>
+<h3 align="center">Full Stack Engineer</h3>
 
 
-- 🔭 I’m currently working on **DApps & Bespoke Dating App**
 
-- 🌱 I’m currently learning **Motoko**
+
 
 - 👯 I’m looking to collaborate on **Projects that solve everyday problems**
 
@@ -14,7 +11,7 @@
 
 - ⚡ Fun fact **During a race, an f1 driver loses up to 4 kg of body weight due to the unbearable temperature in the cockpit.**
 
-- 💬 Ask me about **React, JS, Python, HTML, CSS**
+- 💬 Ask me about **React, JS, Python, HTML, CSS, Node Js, Java**
 
 - 📫 How to reach me **eqitechg@gmail.com**
 
